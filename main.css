@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+#guaBg {
+    height: 100%;
+    width: 100%;
+    background: url("bg.jpg");
+    background-size: 100% 100%;
+}
+
+#cover {
+
+}
